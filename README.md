@@ -1,6 +1,6 @@
 # Audio-transcription-subtitles-using-python-and-whisperAI
 
-This Python program utilizes the Whisper AI language model to generate transcriptions and subtitles for audio files. It not only transcribes the audio but also organizes the transcribed text into an SRT file format, providing a convenient way to add integrate them with videos in any video editing software.
+This repo utilizes the Whisper AI language model to generate transcriptions and subtitles for audio files. It not only transcribes the audio but also organizes the transcribed text into an SRT file format, providing a convenient way to add integrate them with videos in any video editing software.
 
 ## Features
 
