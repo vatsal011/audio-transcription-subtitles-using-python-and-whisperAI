@@ -20,11 +20,11 @@ This Python program utilizes the Whisper AI language model to generate transcrip
    ```bash
    git clone https://github.com/yourusername/whisper-ai-subtitle-generator.git
 
-2. Please make sure to replace the following placeholders. These will be the only changes you would need to do.
-   a. root_path - path to folder having your source audio files.
+2. Please make sure to replace the following placeholders. These will be the only changes you would need to do.<br>
+   a. root_path - path to folder having your source audio files.<br>
    b. exit_path - path to folder to save final SRT files.
 
-   A good practice would be to have a single root and exit folder. Copy audio files to the root folder and move files from exit folder after execution.
+   A good practice would be to have one root and one exit folder. Copy audio files to the root folder and move files from exit folder after execution.
 
 3. Run the jupyter notebook.
 
