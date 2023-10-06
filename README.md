@@ -15,7 +15,7 @@ This repo utilizes the Whisper AI language model to generate transcriptions and 
 
 ## Usage
 
-1. Clone this repository:
+1. Clone repository:
 
    ```bash
    git clone https://github.com/yourusername/whisper-ai-subtitle-generator.git
